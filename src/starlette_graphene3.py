@@ -537,8 +537,8 @@ _GRAPHIQL_HTML = """
     }
   </style>
   <link href="//unpkg.com/graphiql/graphiql.css" rel="stylesheet"/>
-  <script src="//unpkg.com/react@16/umd/react.production.min.js"></script>
-  <script src="//unpkg.com/react-dom@16/umd/react-dom.production.min.js"></script>
+  <script src="//unpkg.com/react@18/umd/react.production.min.js"></script>
+  <script src="//unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
   <script src="//unpkg.com/subscriptions-transport-ws@0.7.0/browser/client.js"></script>
   <script src="//unpkg.com/graphiql-subscriptions-fetcher@0.0.2/browser/client.js"></script>
 </head>
